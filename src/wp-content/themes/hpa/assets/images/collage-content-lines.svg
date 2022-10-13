@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2076px" height="1174px" viewBox="0 0 2076 1174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Lines</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E61E26" offset="0%"></stop>
+            <stop stop-color="#02ACC0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.72912659%" y1="52.6405149%" x2="61.7698079%" y2="49.9004318%" id="linearGradient-2">
+            <stop stop-color="#43BBC1" offset="0%"></stop>
+            <stop stop-color="#82C143" offset="62.0174981%"></stop>
+            <stop stop-color="#F58B1E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E61E26" offset="0%"></stop>
+            <stop stop-color="#02ACC0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.72912659%" y1="50.4258241%" x2="61.7698079%" y2="49.9839431%" id="linearGradient-4">
+            <stop stop-color="#82C143" offset="0%"></stop>
+            <stop stop-color="#82C143" offset="62.0174981%"></stop>
+            <stop stop-color="#F5D91E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="UI-Design---Alliance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Purpose" transform="translate(283.000000, -472.000000)">
+            <g id="//-Hero" transform="translate(-281.891913, 128.000000)">
+                <g id="Lines" transform="translate(1037.098524, 931.093835) rotate(5.000000) translate(-1037.098524, -931.093835) translate(39.901408, 429.737956)">
+                    <path d="M1999.6975,507.351662 C1945.35192,623.573659 1801.74667,633.131362 1568.88173,536.024771 C1241.66765,399.573813 1158.2849,591.757569 944.395815,608.223192 C730.506733,624.688815 557.070942,436.428655 156.697503,505.151311" id="Path-2" stroke="url(#linearGradient-1)" transform="translate(1078.197503, 548.311937) rotate(-11.000000) translate(-1078.197503, -548.311937) "></path>
+                    <path d="M1822.65231,650.016881 C1704.63433,535.241519 1608.87841,523.629075 1535.38455,615.179549 C1508.44751,648.734717 1488.32391,716.22308 1341.8239,704.707267 C1195.32389,693.191454 1095.35164,518.845886 945.744888,503.618895 C767.580189,485.485274 863.164212,658.214466 523.087578,580.694305 C183.010943,503.174143 284.601596,349.312057 15.5049493,296.69802" id="Path-2" stroke="url(#linearGradient-2)" transform="translate(919.078629, 501.355878) rotate(-20.000000) translate(-919.078629, -501.355878) "></path>
+                    <path d="M187.633652,435.046294 C254.263697,546.816225 361.663395,570.270672 509.832748,505.409637 C732.086778,408.118083 814.873946,633.114933 1005.15533,673.194745 C1127.05332,698.87066 1191.06475,589.218773 1350.40824,549.932775 C1439.79812,527.893778 1559.18979,527.999505 1735.63365,586.564714" id="Path-2" stroke="url(#linearGradient-3)" transform="translate(961.633652, 556.046294) rotate(-20.000000) translate(-961.633652, -556.046294) "></path>
+                    <path d="M131.647667,505.733054 C191.373618,463.338908 280.224132,468.841929 398.199209,522.242117 C441.439548,541.814406 494.762835,577.200912 633.79524,588.679734 C772.827646,600.158555 785.206781,526.496588 925.469624,536.52176 C1092.50679,548.460604 1199.8723,616.11424 1381.23763,623.629663 C1562.60296,631.145086 1502.20255,538.231082 1741.99278,543.915523" id="Path-2" stroke="url(#linearGradient-4)" transform="translate(936.820224, 550.826517) rotate(-16.000000) translate(-936.820224, -550.826517) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

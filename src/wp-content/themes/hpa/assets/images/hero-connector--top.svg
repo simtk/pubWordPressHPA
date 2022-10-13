@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="961px" height="483px" viewBox="0 0 961 483" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E61E26" offset="0%"></stop>
+            <stop stop-color="#02ACC0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#E61E26" offset="0%"></stop>
+            <stop stop-color="#02ACC0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="UI-Design---Alliance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Mobile" transform="translate(246.000000, 36.000000)" stroke-width="0.5">
+            <g id="//-Hero" transform="translate(-338.400390, -39.437910)">
+                <g id="wave-lines" transform="translate(526.087336, 469.346755) rotate(4.000000) translate(-526.087336, -469.346755) translate(29.185684, 33.600651)">
+                    <g id="Group" transform="translate(62.073848, 0.000000)">
+                        <path d="M927.260387,107.709859 C896.720483,192.504545 828.220125,204.805385 721.759312,144.612379 C572.16411,60.0311638 545.951746,216.897538 443.834248,236.805873 C341.71675,256.714209 245.965437,112.473963 53.2603872,176.713593" id="Path-2" stroke="url(#linearGradient-1)" transform="translate(490.260387, 173.209859) rotate(-11.000000) translate(-490.260387, -173.209859) "></path>
+                        <path d="M2.30306042,158.746197 C53.6204145,263.183718 118.636291,268.036073 197.350689,173.303263 C307.95755,40.1878614 314.570982,267.161312 410.863615,284.678457 C507.156249,302.195601 555.496845,76.1955377 799.30306,167.145683" id="Path-2" stroke="url(#linearGradient-2)" transform="translate(400.803060, 208.651359) rotate(-20.000000) translate(-400.803060, -208.651359) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

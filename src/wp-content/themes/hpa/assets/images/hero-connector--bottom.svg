@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1003px" height="563px" viewBox="0 0 1003 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <defs>
+        <linearGradient x1="2.72912659%" y1="52.1716141%" x2="61.7698079%" y2="49.9181131%" id="linearGradient-1">
+            <stop stop-color="#43BBC1" offset="0%"></stop>
+            <stop stop-color="#82C143" offset="62.0174981%"></stop>
+            <stop stop-color="#F58B1E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.72912659%" y1="50.6885654%" x2="61.7698079%" y2="49.9740357%" id="linearGradient-2">
+            <stop stop-color="#82C143" offset="0%"></stop>
+            <stop stop-color="#82C143" offset="62.0174981%"></stop>
+            <stop stop-color="#F5D91E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="UI-Design---Alliance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Mobile" transform="translate(339.000000, -335.000000)" stroke-width="0.5">
+            <g id="//-Hero" transform="translate(-338.400390, -39.437910)">
+                <g id="wave-lines" transform="translate(526.087336, 469.346755) rotate(4.000000) translate(-526.087336, -469.346755) translate(29.185684, 33.600651)">
+                    <g id="Group-2" transform="translate(-0.000000, 376.581977)">
+                        <path d="M929.599751,270.546914 C875.639934,199.133895 826.126747,197.814816 781.060189,266.589678 C764.542351,291.797106 749.219507,340.09629 673.028187,342.420085 C596.836866,344.743881 556.550949,230.678487 478.98768,230.643214 C386.618609,230.601208 424.711714,343.853 251.41701,313.967157 C78.1223059,284.081315 142.338429,170.041484 4.59975073,152.455115" id="Path-2" stroke="url(#linearGradient-1)" transform="translate(467.099751, 247.455115) rotate(-20.000000) translate(-467.099751, -247.455115) "></path>
+                        <path d="M142.732932,267.120834 C176.057298,233.777895 221.655452,232.486817 279.527394,263.247599 C300.738675,274.522071 326.243676,296.352162 397.428916,296.352162 C468.614155,296.352162 479.283271,243.73373 551.188688,242.638195 C636.819899,241.333538 627.993555,293.550342 781.674753,277.49911 C935.355951,261.447877 849.140788,210.295244 972.732932,200.352162" id="Path-2" stroke="url(#linearGradient-2)" transform="translate(557.732932, 248.352162) rotate(-16.000000) translate(-557.732932, -248.352162) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

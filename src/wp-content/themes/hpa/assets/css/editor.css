@@ -1,0 +1,188 @@
+/* global variables, mixins, functions, etc. */
+/* ==========================================================================
+   SASS Base: Variables, mixins, etc.
+   ========================================================================== */
+/*
+ * Image black overlay - Used for background images
+ */
+/*
+ * Easy conversion to em from pixels
+ */
+/*
+ * Breakpoints
+ */
+/*
+ * Using variation specific font names from the start to avoid IE8 issues
+ * http://help.typekit.com/customer/portal/articles/6855-Using-multiple-weights-and-styles
+ */
+/* ==========================================================================
+   Global button styles
+   ========================================================================== */
+.button {
+  background-color: #D2222A;
+  border-radius: 30px;
+  color: white;
+  display: inline-block;
+  font-size: 1em;
+  line-height: 1.1875em;
+  padding: 1.3125em 2em;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Altform-Bold", sans-serif;
+  font-style: normal; }
+  @media (max-width: 47.9375em) {
+    .button:hover {
+      color: white !important; } }
+
+.wysiwyg-content > :first-child {
+  margin-top: 0; }
+
+.wysiwyg-content > :last-child {
+  margin-bottom: 0; }
+
+.wysiwyg-content h1 {
+  font-size: 3em;
+  line-height: 1.16667em;
+  font-family: "Altform-Light", sans-serif;
+  font-style: normal;
+  font-weight: 300; }
+
+.wysiwyg-content h2 {
+  color: #4A4E50;
+  font-size: 2.5em;
+  line-height: 1.25em;
+  font-family: "Altform-Light", sans-serif;
+  font-style: normal;
+  font-weight: 300; }
+
+.wysiwyg-content h3 {
+  color: #4A4E50;
+  font-size: 1.875em;
+  line-height: 1.33333em;
+  font-family: "Altform-Light", sans-serif;
+  font-style: normal;
+  font-weight: 300; }
+  @media (max-width: 47.9375em) {
+    .wysiwyg-content h3 {
+      font-size: 1.84615em;
+      line-height: 1.25em; } }
+
+.wysiwyg-content h4 {
+  color: #4A4E50;
+  font-size: 1.25em;
+  line-height: 1.5em;
+  font-family: "Altform-Light", sans-serif;
+  font-style: normal;
+  font-weight: 300; }
+
+.wysiwyg-content ul,
+.wysiwyg-content ol {
+  padding-left: 1.0625em; }
+
+.wysiwyg-content li {
+  line-height: 1.875em; }
+  @media (max-width: 47.9375em) {
+    .wysiwyg-content li {
+      font-size: 1.23077em;
+      line-height: 1.875em; } }
+
+.wysiwyg-content p {
+  line-height: 1.875em; }
+  .wysiwyg-content p strong {
+    font-family: "Altform-Bold", sans-serif;
+    font-style: normal; }
+  @media (max-width: 47.9375em) {
+    .wysiwyg-content p {
+      font-size: 1.23077em;
+      line-height: 1.875em; } }
+
+.wysiwyg-content img {
+  height: auto;
+  max-width: 100%; }
+  .wysiwyg-content img.aligncenter {
+    display: block;
+    margin: 0 auto; }
+
+.wysiwyg-content .button {
+  margin: 1em 0; }
+
+.wysiwyg-content .button + .button {
+  margin-left: 1em; }
+
+.wysiwyg-content .alignright {
+  float: right;
+  margin: 0 0 2.5em 2.5em;
+  max-width: 50%; }
+
+.wysiwyg-content .alignleft {
+  float: left;
+  margin: 0 2.5em 2.5em 0;
+  max-width: 50%; }
+
+@media (max-width: 35.9375em) {
+  .wysiwyg-content .alignright,
+  .wysiwyg-content .alignleft {
+    float: none;
+    margin: 0;
+    max-width: 100%;
+    width: auto; } }
+
+.wysiwyg-content table {
+  border: 1px solid #00e;
+  width: 100%;
+  /* tr:nth-child(even) td {
+            background-color: #ccc;
+        } */ }
+  .wysiwyg-content table th,
+  .wysiwyg-content table td {
+    padding: 0.9375em 1.875em;
+    text-align: left;
+    vertical-align: top; }
+  .wysiwyg-content table th {
+    background-color: #00e;
+    border-right: 1px solid #fff;
+    color: #fff;
+    white-space: nowrap; }
+
+.wysiwyg-content .left-rule-style {
+  position: relative;
+  padding-left: 4.375em; }
+  @media (max-width: 47.9375em) {
+    .wysiwyg-content .left-rule-style {
+      padding-left: 2.53846em; } }
+  .wysiwyg-content .left-rule-style:before {
+    background: var(--left-rule-gradient-theme-color);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1px; }
+
+.wysiwyg-content .red-headline {
+  color: #8C1615; }
+
+.wysiwyg-content .green-headline {
+  color: #007A6E;
+  font-size: 1.5625em;
+  line-height: 2.33333em; }
+
+.wysiwyg-content .link-with-arrow {
+  color: #D2222A;
+  position: relative; }
+  .wysiwyg-content .link-with-arrow:before {
+    content: url("../images/red-arrow--right.svg");
+    margin-right: 0.5625em; }
+
+.wysiwyg-content .larger-text {
+  font-size: 2em;
+  line-height: 1.40625em;
+  font-family: "Altform-Light", sans-serif;
+  font-style: normal; }
+
+.wysiwyg-content .citation {
+  font-size: 1.25em;
+  line-height: 3em;
+  margin: 1.4em 0 0 0;
+  font-family: "Altform-Bold", sans-serif;
+  font-style: normal; }
